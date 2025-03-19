@@ -34,7 +34,7 @@ Bu proje, **4 ana katmandan** oluşmaktadır:
 
 ## 🔗 **Entity Layer (Varlık Katmanı)**
 Entity katmanı, **veritabanı tablolarını temsil eden** sınıflardan oluşur.  
-Örnek bir **Category** (Ürün) entity’si:
+Örnek bir **Category** (Kategori) entity’si:
 
 ```csharp
     public class Category
