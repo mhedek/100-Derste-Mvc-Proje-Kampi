@@ -51,16 +51,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Abstrac\IAboutDal.cs" />
-    <Compile Include="Abstrac\ICategoryDal.cs" />
-    <Compile Include="Abstrac\IContactDal.cs" />
-    <Compile Include="Abstrac\IContentDal.cs" />
-    <Compile Include="Abstrac\IHeadingDal.cs" />
-    <Compile Include="Abstrac\IRepository.cs" />
-    <Compile Include="Abstrac\IWriterDal.cs" />
+    <Compile Include="Abstract\IAboutDal.cs" />
+    <Compile Include="Abstract\ICategoryDal.cs" />
+    <Compile Include="Abstract\IContactDal.cs" />
+    <Compile Include="Abstract\IContentDal.cs" />
+    <Compile Include="Abstract\IHeadingDal.cs" />
+    <Compile Include="Abstract\IRepository.cs" />
+    <Compile Include="Abstract\IWriterDal.cs" />
     <Compile Include="Concrete\Context.cs" />
     <Compile Include="Concrete\Repositories\CategoryRepositories.cs" />
     <Compile Include="Concrete\Repositories\GenericRepository.cs" />
+    <Compile Include="EntityFramework\EfAboutDal.cs" />
+    <Compile Include="EntityFramework\EfCategoryDal.cs" />
+    <Compile Include="EntityFramework\EfContactDal.cs" />
+    <Compile Include="EntityFramework\EfContentDal.cs" />
+    <Compile Include="EntityFramework\EfHeadingDal.cs" />
+    <Compile Include="EntityFramework\EfWriterDal.cs" />
     <Compile Include="Migrations\202503182216281_mig1.cs" />
     <Compile Include="Migrations\202503182216281_mig1.Designer.cs">
       <DependentUpon>202503182216281_mig1.cs</DependentUpon>

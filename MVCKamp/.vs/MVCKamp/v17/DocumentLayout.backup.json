@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Projeler\\Mvc Proje Kamp\u0131\\MVCKamp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F754BD7-8315-46E9-B021-387D4673F0A1}|MVCKamp.csproj|d:\\projeler\\mvc proje kamp\u0131\\mvckamp\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F754BD7-8315-46E9-B021-387D4673F0A1}|MVCKamp.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0F754BD7-8315-46E9-B021-387D4673F0A1}|MVCKamp.csproj|d:\\projeler\\mvc proje kamp\u0131\\mvckamp\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F754BD7-8315-46E9-B021-387D4673F0A1}|MVCKamp.csproj|solutionrelative:controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F754BD7-8315-46E9-B021-387D4673F0A1}|MVCKamp.csproj|d:\\projeler\\mvc proje kamp\u0131\\mvckamp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F754BD7-8315-46E9-B021-387D4673F0A1}|MVCKamp.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F754BD7-8315-46E9-B021-387D4673F0A1}|MVCKamp.csproj|d:\\projeler\\mvc proje kamp\u0131\\mvckamp\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F754BD7-8315-46E9-B021-387D4673F0A1}|MVCKamp.csproj|solutionrelative:views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A60BCEB-595F-49DB-B207-6B40AEEBC596}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\projeler\\mvc proje kamp\u0131\\businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A60BCEB-595F-49DB-B207-6B40AEEBC596}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\projeler\\mvc proje kamp\u0131\\businesslayer\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F754BD7-8315-46E9-B021-387D4673F0A1}|MVCKamp.csproj|d:\\projeler\\mvc proje kamp\u0131\\mvckamp\\views\\admincategory\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F754BD7-8315-46E9-B021-387D4673F0A1}|MVCKamp.csproj|solutionrelative:views\\admincategory\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B6069-61DE-4D10-91F9-241283678A23}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\projeler\\mvc proje kamp\u0131\\dataaccesslayer\\concrete\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B6069-61DE-4D10-91F9-241283678A23}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\projeler\\mvc proje kamp\u0131\\dataaccesslayer\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Projeler\\Mvc Proje Kamp\u0131\\MVCKamp\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
-              "ToolTip": "D:\\Projeler\\Mvc Proje Kamp\u0131\\MVCKamp\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\Mvc Proje Kamp\u0131\\MVCKamp\\Views\\AdminCategory\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminCategory\\EditCategory.cshtml",
+              "ToolTip": "D:\\Projeler\\Mvc Proje Kamp\u0131\\MVCKamp\\Views\\AdminCategory\\EditCategory.cshtml",
+              "RelativeToolTip": "Views\\AdminCategory\\EditCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T00:17:49.64Z",
+              "WhenOpened": "2025-03-22T18:07:47.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Projeler\\Mvc Proje Kamp\u0131\\MVCKamp\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Projeler\\Mvc Proje Kamp\u0131\\MVCKamp\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\Mvc Proje Kamp\u0131\\MVCKamp\\Views\\AdminCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminCategory\\Index.cshtml",
+              "ToolTip": "D:\\Projeler\\Mvc Proje Kamp\u0131\\MVCKamp\\Views\\AdminCategory\\Index.cshtml",
+              "RelativeToolTip": "Views\\AdminCategory\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T17:53:07.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminCategoryController.cs",
+              "DocumentMoniker": "D:\\Projeler\\Mvc Proje Kamp\u0131\\MVCKamp\\Controllers\\AdminCategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminCategoryController.cs",
+              "ToolTip": "D:\\Projeler\\Mvc Proje Kamp\u0131\\MVCKamp\\Controllers\\AdminCategoryController.cs",
+              "RelativeToolTip": "Controllers\\AdminCategoryController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T00:17:35.757Z",
+              "WhenOpened": "2025-03-22T17:51:34.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "D:\\Projeler\\Mvc Proje Kamp\u0131\\BusinessLayer\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Concrete\\CategoryManager.cs",
+              "ToolTip": "D:\\Projeler\\Mvc Proje Kamp\u0131\\BusinessLayer\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Concrete\\CategoryManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAD4vyEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:49:23.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Projeler\\Mvc Proje Kamp\u0131\\BusinessLayer\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Abstract\\ICategoryService.cs",
+              "ToolTip": "D:\\Projeler\\Mvc Proje Kamp\u0131\\BusinessLayer\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Abstract\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:47:55.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Projeler\\Mvc Proje Kamp\u0131\\DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\Projeler\\Mvc Proje Kamp\u0131\\DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:45:54.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Projeler\\Mvc Proje Kamp\u0131\\DataAccessLayer\\Abstract\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Abstract\\IRepository.cs",
+              "ToolTip": "D:\\Projeler\\Mvc Proje Kamp\u0131\\DataAccessLayer\\Abstract\\IRepository.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Abstract\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:44:57.571Z",
               "EditorCaption": ""
             }
           ]
