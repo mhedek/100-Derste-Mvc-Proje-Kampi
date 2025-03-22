@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br />
+<div class="container-fluid">
+    <!-- Small boxes (Stat box) -->
+    <div class="row">
+        <div class="col-lg-5 col-6">
+            <!-- small box -->
+            <div class="small-box bg-info">
+                <div class="inner">
+                    <h3>@ViewBag.d1</h3>
+                    <p>Toplam Kategori Sayısı</p>
+                </div>
+            </div>
+            <div class="small-box bg-info">
+                <div class="inner">
+                    <h3>@ViewBag.d3</h3>
+                    <h6> Kategori tablosunda durumu true olan kategoriler ile false olan kategoriler arasındaki sayısal fark</h6>
+                    
+                </div>
+            </div>
+        </div>
+        <!-- ./col -->
+        <div class="col-lg-5 col-6">
+            <!-- small box -->
+
+            <div class="small-box bg-success">
+                <div class="inner">
+                    <h3>@ViewBag.d4</h3>
+
+                    <p>En fazla başlığa sahip kategori adı</p>
+                </div>
+            </div>
+            <div class="small-box bg-success">
+                <div class="inner">
+                    <h3>@ViewBag.d2</h3>
+
+                    <p>Başlık tablosunda "yazılım" kategorisine ait başlık sayısı</p>
+                </div>
+            </div>
+        </div>
+        <!-- ./col -->
+        <div class="col-lg-5 col-6">
+            <!-- small box -->
+            <div class="small-box bg-warning">
+                <div class="inner">
+                    <h3>@ViewBag.d5</h3>
+                    <p>Yazar adında 'a' harfi geçen yazar sayısı</p>
+                </div>
+            </div>
+
+
+        </div>
+        <!-- ./col -->
+        <!--<div class="col-lg-4 col-6">-->
+            <!-- small box -->
+            <!--<div class="small-box bg-danger">
+                <div class="inner">
+                    <h3>65</h3>
+                    <p>Unique Visitors</p>
+                </div>
+            </div>
+        </div>-->
+        <!-- ./col -->
+    </div>
+    <!-- /.row -->
+    <!-- Main row -->
+</div>
+
