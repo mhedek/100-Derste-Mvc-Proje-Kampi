@@ -15,3 +15,13 @@ D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
 D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
+D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
+D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
+D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_addstatus.resources
+D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_content_AddStatus.resources
+D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_heading_AddStatus.resources
+D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_message_class.resources
+D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_update.resources
+D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_MessageDraftAdd.resources
+D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_contactDate.resources

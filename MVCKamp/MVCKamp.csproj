@@ -136,10 +136,17 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AboutController.cs" />
     <Compile Include="Controllers\AdminCategoryController.cs" />
     <Compile Include="Controllers\CategoryController.cs" />
+    <Compile Include="Controllers\ContactController.cs" />
+    <Compile Include="Controllers\ContentController.cs" />
+    <Compile Include="Controllers\ErrorPageController.cs" />
+    <Compile Include="Controllers\HeadingController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MessageController.cs" />
     <Compile Include="Controllers\StatisticController.cs" />
+    <Compile Include="Controllers\WriterController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -165,6 +172,10 @@
     <Content Include="AdminLTE-3.0.4\build\npm\DocsPublish.js" />
     <Content Include="AdminLTE-3.0.4\build\npm\Plugins.js" />
     <Content Include="AdminLTE-3.0.4\build\npm\Publish.js" />
+    <Content Include="AdminLTE-3.0.4\colorlib-error-404-10\css\style.css" />
+    <Content Include="AdminLTE-3.0.4\colorlib-error-404-10\img\bg.jpg" />
+    <Content Include="AdminLTE-3.0.4\colorlib-error-404-10\index.html" />
+    <Content Include="AdminLTE-3.0.4\colorlib-error-404-10\readme.txt" />
     <Content Include="AdminLTE-3.0.4\dist\css\adminlte.css" />
     <Content Include="AdminLTE-3.0.4\dist\css\adminlte.min.css" />
     <Content Include="AdminLTE-3.0.4\dist\css\alt\adminlte.components.css" />
@@ -2271,6 +2282,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Views\Statistic\Ekran görüntüsü 2025-03-23 014223.png" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -2293,6 +2305,25 @@
     <Content Include="Views\AdminCategory\AddCategory.cshtml" />
     <Content Include="Views\AdminCategory\EditCategory.cshtml" />
     <Content Include="Views\Statistic\Index.cshtml" />
+    <Content Include="Views\Writer\Index.cshtml" />
+    <Content Include="Views\Writer\AddWriter.cshtml" />
+    <Content Include="Views\Writer\EditWriter.cshtml" />
+    <Content Include="Views\Heading\Index.cshtml" />
+    <Content Include="Views\Heading\AddHeading.cshtml" />
+    <Content Include="Views\Content\ContentByHeading.cshtml" />
+    <Content Include="Views\Heading\EditHeading.cshtml" />
+    <Content Include="Views\About\Index.cshtml" />
+    <Content Include="Views\About\AboutPartial.cshtml" />
+    <Content Include="Views\Contact\Index.cshtml" />
+    <Content Include="Views\Contact\GetContactDetails.cshtml" />
+    <Content Include="Views\Contact\ContactPartial.cshtml" />
+    <Content Include="Views\Message\Inbox.cshtml" />
+    <Content Include="Views\Message\Sendbox.cshtml" />
+    <Content Include="Views\Message\NewMessage.cshtml" />
+    <Content Include="Views\Message\Draft.cshtml" />
+    <Content Include="Views\Message\GetInboxMessageDetails.cshtml" />
+    <Content Include="Views\Message\GetSendMessageDetails.cshtml" />
+    <Content Include="Views\ErrorPage\Page404.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
