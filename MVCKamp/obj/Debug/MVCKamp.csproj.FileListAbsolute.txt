@@ -96,3 +96,7 @@ D:\Projeler\Mvc Proje Kampı\MVCKamp\bin\System.Threading.Tasks.Extensions.dll
 D:\Projeler\Mvc Proje Kampı\MVCKamp\bin\FluentValidation.xml
 D:\Projeler\Mvc Proje Kampı\MVCKamp\bin\System.Runtime.CompilerServices.Unsafe.xml
 D:\Projeler\Mvc Proje Kampı\MVCKamp\bin\System.Threading.Tasks.Extensions.xml
+D:\Projeler\Mvc Proje Kampı\MVCKamp\bin\PagedList.dll
+D:\Projeler\Mvc Proje Kampı\MVCKamp\bin\PagedList.Mvc.dll
+D:\Projeler\Mvc Proje Kampı\MVCKamp\bin\PagedList.xml
+D:\Projeler\Mvc Proje Kampı\MVCKamp\bin\PagedList.Mvc.xml

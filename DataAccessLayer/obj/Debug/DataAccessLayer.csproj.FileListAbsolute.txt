@@ -26,3 +26,4 @@ D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migration
 D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_MessageDraftAdd.resources
 D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_contactDate.resources
 D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addimage_file.resources
+D:\Projeler\Mvc Proje Kampı\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_admin_table.resources
