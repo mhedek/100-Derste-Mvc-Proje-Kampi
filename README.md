@@ -16,16 +16,10 @@
 ### 🔒 Authentication & Authorization
 ✅ Kullanıcı kayıt, giriş ve rol yönetimi  
 ✅ Identity kullanarak güvenlik mekanizmaları  
-✅ JWT ile Token bazlı kimlik doğrulama  
-
-### 📡 API Entegrasyonu
-✅ **RESTful API kullanımı**  
-✅ **Dış servislerden veri çekme** (OpenWeather, Google Maps API vb.)  
-✅ **AJAX ile dinamik veri güncelleme**  
+✅ JWT ile Token bazlı kimlik doğrulama   
 
 ### 🎨 Frontend & UI Geliştirme
-✅ **Bootstrap & jQuery** kullanımı  
-✅ **AJAX ile asenkron işlemler**  
+✅ **Bootstrap & jQuery** kullanımı    
 ✅ **Datatables, Chart.js gibi kütüphanelerle veri görselleştirme
 
 
@@ -84,19 +78,20 @@ public class Category
 
                                                 # PROJE GÖRSELLERİ #
 
-![Admin Giriş Paneli]([https://raw.githubusercontent.com/kullaniciadi/repoadi/main/images/mvc-layers.png](https://github.com/mhedek/100-Derste-Mvc-Proje-Kampi/blob/master/MVCKamp/AdminLTE-3.0.4/web/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-31%20212052.png))  
-
-![Ekran görüntüsü 2025-03-31 211724](https://github.com/user-attachments/assets/6d1aa64c-75a9-4ed9-bd7c-0de8f5523365)
-
+![Admin Giriş Paneli](https://github.com/user-attachments/assets/fc314e52-6bd1-4fac-b9e9-13e07cc87f6b)
 
 ---
 
-![Yazar Paneli Profil Düzenleme]([https://raw.githubusercontent.com/kullaniciadi/repoadi/main/images/mvc-layers.png](https://github.com/mhedek/100-Derste-Mvc-Proje-Kampi/blob/master/MVCKamp/AdminLTE-3.0.4/web/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-31%20211230.png))
+![Kategori İşlemleri](https://github.com/user-attachments/assets/06aefcf8-11d8-4a32-8133-d408e5861b8b)
 
 ---
 
-![Sözlük Paneli]([https://raw.githubusercontent.com/kullaniciadi/repoadi/main/images/mvc-layers.png](https://github.com/mhedek/100-Derste-Mvc-Proje-Kampi/blob/master/MVCKamp/AdminLTE-3.0.4/web/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-31%20211253.png))
+![Hata Sayfası](https://github.com/user-attachments/assets/1947848a-55ef-44ae-86c9-2f7c25174774)
 
 ---
 
-![Başlık İşlemleri]([https://raw.githubusercontent.com/kullaniciadi/repoadi/main/images/mvc-layers.png](https://github.com/mhedek/100-Derste-Mvc-Proje-Kampi/blob/master/MVCKamp/AdminLTE-3.0.4/web/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-31%20211730.png))
+![Mesaj İşlemleri](https://github.com/user-attachments/assets/6fe3d530-70a8-478b-8a5e-f9c6efe5ec39)
+
+---
+
+![Başlıklar](https://github.com/user-attachments/assets/0840fc03-6c8f-4afd-96aa-bc177723e86c)
