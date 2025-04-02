@@ -84,4 +84,16 @@ public class Category
 
                                                 # PROJE GÖRSELLERİ #
 
-![Mvc Login Paneli](MVCKamp/AdminLTE-3.0.4/web/images/Ekran görüntüsü 2025-03-19 040259.png)                                                
+![Admin Giriş Paneli]([https://raw.githubusercontent.com/kullaniciadi/repoadi/main/images/mvc-layers.png](https://github.com/mhedek/100-Derste-Mvc-Proje-Kampi/blob/master/MVCKamp/AdminLTE-3.0.4/web/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-31%20212052.png))  
+
+---
+
+![Yazar Paneli Profil Düzenleme]([https://raw.githubusercontent.com/kullaniciadi/repoadi/main/images/mvc-layers.png](https://github.com/mhedek/100-Derste-Mvc-Proje-Kampi/blob/master/MVCKamp/AdminLTE-3.0.4/web/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-31%20211230.png))
+
+---
+
+![Sözlük Paneli]([https://raw.githubusercontent.com/kullaniciadi/repoadi/main/images/mvc-layers.png](https://github.com/mhedek/100-Derste-Mvc-Proje-Kampi/blob/master/MVCKamp/AdminLTE-3.0.4/web/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-31%20211253.png))
+
+---
+
+![Başlık İşlemleri]([https://raw.githubusercontent.com/kullaniciadi/repoadi/main/images/mvc-layers.png](https://github.com/mhedek/100-Derste-Mvc-Proje-Kampi/blob/master/MVCKamp/AdminLTE-3.0.4/web/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-31%20211730.png))
